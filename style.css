@@ -1,0 +1,10 @@
+body {
+  background-color: crimson;
+}
+
+.button {
+  border: 3px black;
+  padding: 20px 40px;
+  color: rgb(240, 247, 241);
+  font-size: 16px;
+}
