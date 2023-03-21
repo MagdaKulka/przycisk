@@ -3,8 +3,10 @@ body {
 }
 
 .button {
-  border: 3px black;
+  border: 3px;
+  border-color: black;
+  border-style: solid;
   padding: 20px 40px;
-  color: rgb(240, 247, 241);
+  color: black;
   font-size: 16px;
 }
